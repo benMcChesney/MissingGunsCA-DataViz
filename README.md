@@ -28,3 +28,4 @@ python App.py
 
 *[tutorial](https://www.dataquest.io/blog/web-scraping-tutorial-python/ )  This tutorial helped get me started with Beautiful Soup
 
+*[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU2YjUyY2MtNDUzMC00OTAzLWJlN2YtN2Q3ZjZkOWIzYzEzIiwidCI6ImVlZDZiZDFhLTdkM2UtNDkyNS05ZWU4LTExNTE2NmJhMzdkOCIsImMiOjZ9 ) Final Dashboard Result
